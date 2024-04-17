@@ -1,2 +1,2 @@
-# cmake2g
+# CMake2G
 a learning example
